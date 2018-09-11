@@ -1,0 +1,1 @@
+# zabbix-cert-enddate-check
